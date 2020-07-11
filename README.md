@@ -87,4 +87,4 @@ discuss what you would like to change.
 
 Run `clang-format` on your code to ensure it meets the project's coding standards.
 
-Official Discord: https://discord.gg/7bcNTPK
+Discord for this specific project: https://discord.com/invite/DZU3FSD
